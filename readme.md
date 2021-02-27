@@ -16,7 +16,7 @@ In this investigation, I am interested in finding out which characteristics have
 
 ## Dataset Overview
 
-This data is part of "Data Expo 2009: Airline on time data" form American Statistical Association (ASA) Statistical Computing Dataverse. The data consists of flight arrival and departure details for all commercial flights within the USA, from October 1987 to April 2008. In this project, only the year 2007 is used. The oririnal data is avaible from [ASA](#http://stat-computing.org/dataexpo/2009/the-data.html) and [Harvard Dataverse](#https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/HG7NV7). The data comes originally from [RITA](#https://www.transtats.bts.gov/OT_Delay/OT_DelayCause1.asp).
+This data is part of "Data Expo 2009: Airline on time data" form American Statistical Association (ASA) Statistical Computing Dataverse. The data consists of flight arrival and departure details for all commercial flights within the USA, from October 1987 to April 2008. In this project, only the year 2007 is used. The oririnal data is avaible from [ASA](http://stat-computing.org/dataexpo/2009/the-data.html) and [Harvard Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/HG7NV7). The data comes originally from [RITA](https://www.transtats.bts.gov/OT_Delay/OT_DelayCause1.asp).
 In the year 2007, there are 7453215 flights in the dataset with 29 features.
 
 
